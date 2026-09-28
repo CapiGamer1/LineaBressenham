@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="LineaBressenham/LineaBressenham.vcxproj" Id="df08931b-86f1-4d93-964f-fcb71460215d" />
+</Solution>
